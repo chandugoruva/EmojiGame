@@ -1,0 +1,19 @@
+.li {
+  background-color: #ffffff33;
+  border-radius: 20px;
+  border: #ffffff30 2px solid;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  min-width: 200px;
+}
+.img {
+  height: 60px;
+}
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
